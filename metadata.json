@@ -1,0 +1,7 @@
+{
+  "name": "IDIEM Rendición de Gastos - Universidad de Chile",
+  "description": "Plataforma SaaS de Rendición de Gastos y Auditoría Tributaria con validación SII y Supabase Storage para el Instituto IDIEM de la Universidad de Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
